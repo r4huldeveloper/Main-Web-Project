@@ -1,0 +1,28 @@
+
+#social, #coding {
+    color: rgb(94, 149, 204);
+}
+
+
+#heading {
+    color: rgba(32, 39, 35, 0.878);
+    text-align: center;
+}
+
+#coding-para, #social-para {
+    background-color: lightgrey;
+}
+
+#social {
+    margin-top: 80px;
+}
+
+#mypic {
+    max-width: 100%;
+    height: auto;
+}
+
+#social-para, #coding-para {
+    max-width: 100%;
+    height: auto;
+}
